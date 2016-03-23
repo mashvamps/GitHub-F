@@ -1,0 +1,12 @@
+atom proxy
+
+こちらで設定
+apm config set https-proxy http://アドレス:ポート
+
+こちらで確認
+apm config get https-proxy
+
+こちらでproxy ゲット
+http://www.cybersyndrome.net/
+
+少し追加してみる
