@@ -8,5 +8,3 @@ apm config get https-proxy
 
 こちらでproxy ゲット
 http://www.cybersyndrome.net/
-
-少し追加してみる
